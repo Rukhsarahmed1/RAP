@@ -1,4 +1,4 @@
-##RAP - package
+#RAP - package
 
 This file gives a short description to the RAP-package.
 The cost of health has significantly increased in the past 10 years, due to the rising costs of
